@@ -1,0 +1,73 @@
+
+--------------------------------------------------------------------HOW TO PLAY---------------------------------------------------------------------
+
+First scene that should be loaded: startscene
+
+Objective = collect all computer chips on the level (there are 4 per level), then go to portal to be transported to the next level
+			collect as many coins as you can
+
+Player controls/movements: 
+	move left = A or left arrow key
+	move right = D or right arrow key
+	Jump = space bar
+	shoot = left click on mouse
+	Wall jump = jump on one wall then move to the other wall and hit jump again
+
+
+
+---------------------------------------------------------------------REFERENCES---------------------------------------------------------------------
+
+
+Sound effects from: 
+	enemy sound effects, collectibles and shooting from: https://www.youtube.com/user/gamingsoundfx 
+	footstep sound effects: Unity store (https://assetstore.unity.com/packages/audio/sound-fx/footstep-snow-and-grass-90678)
+music:
+	from this channel: https://www.youtube.com/channel/UCsLlqLIE-TqDq3lh5kU2PeA
+	https://www.youtube.com/watch?v=nrzJjFS0jEU
+
+Tilesets:
+	Level 1 = modified assets from: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+									https://0x72.itch.io/16x16-robot-tileset
+	Level 2 =  own assets + modified assets from https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+	Level 3 = SunnyLand asset from Unity store (https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
+	Level 4 = https://ansimuz.itch.io/warped-city
+
+Backgrounds:
+	Level 1= https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elsetge.cat%2Fpngvi%2FiTTxRJT_pixel-art-space%2F&psig=AOvVaw3fQ5UW8jykzHVFUsqt4noQ&ust=1587556654665000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCB8Mi7-egCFQAAAAAdAAAAABAG
+
+	Level 2= modified background from: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.hipwallpaper.com%2Fi%2F75%2F89%2FuP3LiD.jpg&imgrefurl=https%3A%2F%2Fhipwallpaper.com%2F16-bit-mountain-backgrounds%2F&tbnid=Bs7FHj4CQ_q_KM&vet=12ahUKEwiL7cmeu_noAhUp1uAKHRBHCqYQMyhWegUIARDsAQ..i&docid=g1W-dugDuUhtaM&w=1920&h=1080&q=8%20bit%20space%20background&client=safari&ved=2ahUKEwiL7cmeu_noAhUp1uAKHRBHCqYQMyhWegUIARDsAQ#h=1080&imgdii=fHaH6zuCjvVP6M:&vet=12ahUKEwiL7cmeu_noAhUp1uAKHRBHCqYQMyhWegUIARDsAQ..i&w=1920
+
+	Level 3= https://www.google.com/search?q=pixel+art+jungle+background&tbm=isch&ved=2ahUKEwiR5PvEu_noAhWVIBQKHb7KBBYQ2-cCegQIABAA&oq=pixel+art+jungle+background&gs_lcp=CgNpbWcQAzICCAA6BggAEAcQHlDbuQRY7r0EYIm_BGgAcAB4AYABowGIAboDkgEDNS4xmAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ei=rt-eXpHVKJXBUL6Vk7AB&bih=747&biw=1324&client=safari#imgrc=XMbBJTfVxM9v-M
+
+	Level 4= https://assetstore.unity.com/packages/2d/textures-materials/building/cyberpunk-street-environment-86766
+
+Movable objects (platfroms and boost box on level 4) =  own created assets
+Objects:
+	Moveable platforms =  own assets
+	Boost box =  own asset
+	Spikes = http://pixelartmaker.com/art/dca2574a41f6294
+	Fire = https://www.pinterest.co.uk/pin/520236194434048582/
+	Electricity = http://spritefx.blogspot.com/2013/04/sprite-lightning.html
+
+trees: https://opengameart.org/content/pixel-art-simple-trees
+turrets on level 3:  own assets
+
+Sprite sheets:
+	Jinn, Medusa, purple dragon: https://craftpix.net/freebies/free-rpg-monster-sprites-pixel-art/
+	Green dragon: https://www.shutterstock.com/search/sprite+sheet+dragon
+	Purple/green alien = modified asset from: https://www.deviantart.com/metroidpeter/art/Compiled-Mega-Man-Sprite-Sheet-634443594
+	Gorilla = modified asset from: https://www.spriters-resource.com/snes/gon/sheet/50067/
+	Player (spaceman) = modified asset from[walking and hurt animation is  own]: https://www.spriters-resource.com
+	Slime ball = https://www.shutterstock.com/search/sprite+sheet
+	robot on level 4 = https://craftpix.net/categorys/sprites/
+
+
+Player bullet =  own created asset
+
+health bar =  own created asset
+
+collectibles:
+	coin = https://www.kindpng.com/imgv/wobTmR_coins-clipart-sprite-animated-coin-sprite-sheet-hd/
+	heart =  own asset
+	computer chip = http://pixelartmaker.com/art/11653b96d6e298b
+
